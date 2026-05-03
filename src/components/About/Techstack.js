@@ -6,18 +6,11 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython,
+
   DiGit,
-  DiJava,
+
 } from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+
 import { SiC } from "react-icons/si";
 import { SiHtml5 } from "react-icons/si";
 import { SiCss3 } from "react-icons/si";
